@@ -1,7 +1,7 @@
 # steeleye
-#React Component Code Review
+# React Component Code Review
 
-##Introduction
+## Introduction
 
 Based on the code below answer the following queries:
 
